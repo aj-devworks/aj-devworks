@@ -2,11 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Abdinasir%20Osman&fontSize=45&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Builder&descAlignY=58&descSize=18"/>
 
-### 👋 Building software that solves real problems.
+### 👋 Building ideas into real-world software.
 
-**Full-Stack Developer focused on Web Applications, APIs & AI-powered products.**
-
-<br>
+**Full-Stack Developer focused on modern web applications & AI-powered experiences.**
 
 <a href="https://github.com/aj-devworks">
 <img src="https://img.shields.io/badge/GitHub-aj--devworks-181717?style=for-the-badge&logo=github"/>
@@ -14,70 +12,58 @@
 <a href="https://www.linkedin.com/in/abdinasir-osman-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="mailto:aj07256768@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 🧑‍💻 About Me
 
-I'm a **Full-Stack Developer** who enjoys turning ideas into functional, scalable applications.
+I'm a **Full-Stack Developer** who enjoys turning ideas into useful, functional applications.
 
-I work across the stack — **UI → APIs → databases → authentication → deployment** — and I'm currently expanding into **AI/LLM-powered applications**.
+I work across the frontend and backend, building interfaces, APIs, authentication systems, and AI-powered features.
+
+Currently focused on becoming a stronger **production-ready software developer**.
 
 ---
 
-## 🧰 My Stack
+## ⚡ Core Stack
 
 <div align="center">
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=react,js,python,flask,html,css" />
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+<br><br>
 
-### Backend
-
-<img src="https://skillicons.dev/icons?i=python,flask" />
-
-### Database & Tools
-
-<img src="https://skillicons.dev/icons?i=postgresql,git,github,vscode,postman" />
-
-### AI
-
-<img src="https://skillicons.dev/icons?i=openai" />
+**React.js · JavaScript · Python · Flask · HTML · CSS**
 
 </div>
 
 ---
 
-## 🚀 What I Can Build
+## 🚀 What I Build
 
 ```text
-🎨 Modern Frontends       → React • JavaScript • Responsive UI
-⚙️ Backend Systems        → Flask • REST APIs • Python
-🔐 Secure Applications    → Authentication • RBAC • Authorization
-🗄️ Data Systems           → PostgreSQL • SQLAlchemy • Database Design
-🤖 AI Applications        → LLM APIs • AI Assistants • Automation
-🔄 Full-Stack Integration → Frontend ↔ API ↔ Database ↔ AI
+🎨 Frontend        → React.js • JavaScript • Responsive UI
+⚙️ Backend         → Python • Flask • REST APIs
+🔐 Applications    → Authentication • Role-Based Systems
+🤖 AI              → LLM-powered application features
+🔄 Full-Stack      → Frontend + Backend + API Integration
 ```
 
 ---
 
-## 🌟 Featured Work
+## 🌟 Featured Projects
 
 ### 🏠 Azam Homes
 
 **Real Estate Management Platform**
 
-`React` `Flask` `PostgreSQL`
+A modern platform for managing properties, listings, users, and real-estate operations.
 
-> Property listings and management platform with role-based access for **Managers & Admins**.
+`React.js` `Flask` `Python`
 
-**🔐 Auth · 👥 RBAC · 🏠 Listings · 🗄️ PostgreSQL · ⚡ REST API**
+🔐 Role-Based Access · 🏠 Property Management · ⚡ REST API
 
 ---
 
@@ -85,25 +71,25 @@ I work across the stack — **UI → APIs → databases → authentication → d
 
 **AI-Powered Application Assistant**
 
-`React` `Flask` `LLM APIs`
+An intelligent assistant designed to bring AI capabilities into real-world web applications.
 
-> Bringing intelligent conversations and AI-powered workflows into full-stack applications.
+`React.js` `Flask` `Python`
 
-**💬 Chat · 🧠 Context · 🔌 LLM Integration · ⚡ Automation**
+💬 Conversational AI · 🧠 Context · ⚡ AI Workflows
 
 ---
 
-## 🧠 How I Think
+## 🧠 My Approach
 
 <div align="center">
 
-**Understand → Design → Build → Debug → Improve → Ship 🚀**
+### **Understand → Build → Debug → Improve → Ship 🚀**
 
 </div>
 
 I don't just want to write code.
 
-**I want to build products that matter.**
+**I want to build software that solves real problems.**
 
 ---
 
@@ -128,9 +114,5 @@ I don't just want to write code.
 ### 🌍 Open to opportunities & collaborations
 
 **Let's build something amazing. 🚀**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
