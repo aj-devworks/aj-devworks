@@ -22,11 +22,6 @@ Full-Stack Developer building interfaces, APIs, and AI-powered features. Current
 <img src="https://github-readme-stats.vercel.app/api?username=aj-devworks&show_icons=true&hide_border=true&count_private=true&theme=radical" height="150"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aj-devworks&hide_border=true&theme=radical" height="150"/>
 
-### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=aj-devworks&theme=radical&no-frame=true&row=1&column=6"/>
-
-### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/aj-devworks/aj-devworks/output/github-contribution-grid-snake.svg"/>
 
 <div align="center">
 
