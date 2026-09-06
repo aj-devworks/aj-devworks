@@ -12,7 +12,7 @@ I build fullstack web applications with <b>React, Flask, and PostgreSQL</b>, and
 - 🏗️ Currently building **Azam Homes**, a real estate listings platform with role-based access for managers and admins
 - 🤖 Exploring **AI-powered features** — building a chatbot assistant that plugs into fullstack apps using LLM APIs
 - 🌍 Actively building a portfolio to land a fullstack developer role abroad
-- 📫 Reach me: **your-email@example.com** • [LinkedIn](https://linkedin.com/in/your-profile)
+- 📫 Reach me: **aj07256768@gmail.com** • [LinkedIn](https://www.linkedin.com/in/abdinasir-osman-dev/)
 
 ---
 
