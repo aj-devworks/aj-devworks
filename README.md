@@ -1,71 +1,208 @@
-<h1 align="center">Hi, I'm Abdinasir Osman 👋</h1>
-<h3 align="center">Fullstack Developer | AI-Powered Applications</h3>
+<div align="center">
 
-<p align="center">
-I build fullstack web applications with <b>React, Flask, and PostgreSQL</b>, and I'm currently focused on integrating AI/LLM features — like intelligent chatbots — into production-ready apps.
+# 👋 Hi, I'm Abdinasir Osman
+
+### ⚡ Full-Stack Developer · 🤖 AI Builder · 🚀 Problem Solver
+
+<p>
+  <a href="https://github.com/aj-devworks">
+    <img src="https://img.shields.io/badge/GitHub-aj--devworks-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdinasir-osman-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aj07256768@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-### 🚀 About Me
-- 🎓 Recently completed an intensive fullstack bootcamp covering **JavaScript, React, Python (Flask), and PostgreSQL**
-- 🏗️ Currently building **Azam Homes**, a real estate listings platform with role-based access for managers and admins
-- 🤖 Exploring **AI-powered features** — building a chatbot assistant that plugs into fullstack apps using LLM APIs
-- 🌍 Actively building a portfolio to land a fullstack developer role abroad
-- 📫 Reach me: **aj07256768@gmail.com** • [LinkedIn](https://www.linkedin.com/in/abdinasir-osman-dev/)
+### Building ideas into real-world software.
 
----
+**React · Flask · PostgreSQL · AI / LLMs**
 
-### 🛠️ Tech Stack
-
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Databases & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-**AI / LLM Integration**
-
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+</div>
 
 ---
 
-### 🌟 Featured Project
+## 🧑‍💻 About Me
 
-#### 🏠 [Azam Homes](https://github.com/aj07256768-sys)
-A real estate listings and sales platform built with React, featuring role-based access control for **managers** and **admins**. Currently expanding into a full REST API backend with Flask and PostgreSQL.
+I'm a **Full-Stack Developer** focused on building practical, modern web applications.
 
-> *(Add a live demo link and a screenshot/GIF here once deployed — profiles with visuals get far more attention.)*
+I enjoy working across the entire stack — from designing interfaces and building APIs to managing databases and integrating AI into real products.
 
-#### 🤖 AI Chatbot Assistant *(in progress)*
-An AI-powered chatbot built to integrate into fullstack applications, using LLM APIs for natural conversation, contextual responses, and task automation.
+```javascript
+const abdinasir = {
+  role: "Full-Stack Developer",
+  location: "Kenya 🇰🇪",
 
-> *(Add a repo link + short description once you push this project — even a simple Flask + LLM API chatbot demo makes a strong portfolio piece.)*
+  frontend: ["React", "JavaScript", "HTML", "CSS"],
+  backend: ["Python", "Flask", "REST APIs"],
+  database: ["PostgreSQL", "SQLAlchemy"],
+
+  currentlyLearning: [
+    "AI / LLM Integration",
+    "Software Architecture",
+    "Production Development"
+  ],
+
+  mindset: "Build. Learn. Improve. Ship. 🚀"
+};
+```
 
 ---
 
-### 📊 GitHub Stats
+# 🚀 What I'm Building
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aj07256768-sys&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj07256768-sys&layout=compact&theme=radical" />
-</p>
+### 🏠 Azam Homes
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aj07256768-sys&theme=radical" />
-</p>
+**Real Estate Management Platform**
+
+A full-stack platform focused on property listings, management and role-based access.
+
+**Tech**
+
+`React` `Flask` `PostgreSQL` `REST API`
+
+**Focus**
+
+🔐 Authentication & Authorization
+🏠 Property Management
+👥 Manager & Admin Roles
+🗄️ PostgreSQL Backend
+⚡ RESTful Architecture
+
+> 🚧 Currently under active development.
 
 ---
 
-<p align="center"><i>⭐️ Open to fullstack developer opportunities — always happy to connect!</i></p>
+### 🤖 AI Assistant
+
+**AI × Full-Stack Applications**
+
+Building an intelligent assistant that brings LLM capabilities into real-world web applications.
+
+**Exploring**
+
+💬 Conversational AI
+🧠 Context-aware responses
+🔌 LLM API integration
+⚡ AI-powered workflows
+🛠️ Task automation
+
+> 🚧 Currently building.
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=python,flask,postgresql" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+### AI
+
+<img src="https://skillicons.dev/icons?i=openai" />
+
+</div>
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aj-devworks&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj-devworks&layout=compact&hide_border=true&theme=transparent" height="170"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=aj-devworks&hide_border=true&theme=transparent"/>
+
+</div>
+
+---
+
+# 🧠 How I Build
+
+<div align="center">
+
+### 💡 Idea
+
+↓
+
+### 🧩 Plan
+
+↓
+
+### 💻 Build
+
+↓
+
+### 🐛 Debug
+
+↓
+
+### 🚀 Ship
+
+↓
+
+### 🔄 Improve
+
+</div>
+
+I believe good software isn't just about writing code.
+
+It's about **understanding the problem, designing the right solution, and delivering something people can actually use.**
+
+---
+
+# 🎯 Currently
+
+|     | Focus                                        |
+| --- | -------------------------------------------- |
+| 🚀  | Building real-world full-stack applications  |
+| 🤖  | Exploring AI & LLM integrations              |
+| 🧠  | Improving software architecture              |
+| 🛠️ | Building stronger production-ready projects  |
+| 🌍  | Preparing for global developer opportunities |
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+### Let's build something useful. 🚀
+
+<a href="https://github.com/aj-devworks">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abdinasir-osman-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:aj07256768@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<br/><br/>
+
+**⭐ Build. Learn. Ship. Repeat.**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6A5ACD&height=100&section=footer" width="100%"/>
