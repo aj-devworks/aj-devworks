@@ -1,83 +1,37 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Abdinasir%20Osman&fontSize=45&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Builder&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,15:7928CA,35:009EFD,55:2AF598,75:FFC700,100:FF0080&height=170&section=header&animation=fadeIn"/>
 
-### 👋 Building ideas into real-world software.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=42&duration=2800&pause=700&color=2AF598&center=true&vCenter=true&width=650&height=65&lines=Abdinasir+Osman;Full-Stack+Developer;AI+Builder" alt="Typing SVG"/>
 
-**Full-Stack Developer focused on modern web applications & AI-powered experiences.**
+<a href="https://portofolio-nine-beta-33.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/aj-devworks"><img src="https://img.shields.io/badge/GitHub-7928CA?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdinasir-osman-dev/"><img src="https://img.shields.io/badge/LinkedIn-009EFD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<a href="https://portofolio-nine-beta-33.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0070F3?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/aj-devworks">
-<img src="https://img.shields.io/badge/GitHub-aj--devworks-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/abdinasir-osman-dev/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=aj-devworks&label=Profile+Views&color=2AF598&style=for-the-badge"/>
 
 </div>
 
----
+### 🧑‍💻 About Me
+Full-Stack Developer building interfaces, APIs, and AI-powered features. Currently building **Azam Homes**, a real estate platform with role-based access. Open to opportunities. 🌍
 
-## 🧑‍💻 About Me
+### ⚡ Stack
+<img src="https://skillicons.dev/icons?i=react,js,python,flask,postgres,html,css"/>
 
-I'm a **Full-Stack Developer** who enjoys turning ideas into useful, functional applications.
+### 📊 Stats
+<img src="https://github-readme-stats.vercel.app/api?username=aj-devworks&show_icons=true&hide_border=true&count_private=true&theme=radical" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aj-devworks&hide_border=true&theme=radical" height="150"/>
 
-I work across the frontend and backend, building interfaces, APIs, authentication systems, and AI-powered features.
+### 🏆 Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=aj-devworks&theme=radical&no-frame=true&row=1&column=6"/>
 
-Currently focused on becoming a stronger **production-ready software developer**.
-
----
-
-## ⚡ Core Stack
+### 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/aj-devworks/aj-devworks/output/github-contribution-grid-snake.svg"/>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,js,python,flask,html,css" />
-
-<br><br>
-
-**React.js · JavaScript · Python · Flask · HTML · CSS**
-
-</div>
-
----
-
-## 🚀 What I Build
-
-
-🎨 Frontend        → React.js • JavaScript • Responsive UI
-⚙️ Backend         → Python • Flask • REST APIs
-🔐 Applications    → Authentication • Role-Based Systems
-🤖 AI              → LLM-powered application features
-🔄 Full-Stack      → Frontend + Backend + API Integration
-
-
-
----
-
-## 🧠 My Approach
-
-### **Understand → Build → Debug → Improve → Ship 🚀**
-
-I don't just want to write code.
-
-**I want to build software that solves real problems.**
-
----
-
-## 📊 GitHub
-
-
-
-
-
----
-
-### 🌍 Open to opportunities & collaborations
-
-🌐 **Explore my portfolio & live projects:** [portofolio-nine-beta-33.vercel.app](https://portofolio-nine-beta-33.vercel.app/)
 
 **Let's build something amazing. 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC700,25:2AF598,45:009EFD,65:7928CA,100:FF0080&height=110&section=footer&animation=fadeIn"/>
+
+</div>
