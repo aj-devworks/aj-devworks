@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2AF598,25:009EFD,50:7928CA,75:FFC700,90:FF0080,100:2AF598&height=170&section=header&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2AF598,33:009EFD,66:7928CA,100:FFC700&height=170&section=header&animation=fadeIn"/>
 
 <img src="https://raw.githubusercontent.com/aj-devworks/aj-devworks/main/assets/name-banner.svg" alt="Abdinasir Osman"/>
 
@@ -27,6 +27,6 @@ Full-Stack Developer building interfaces, APIs, and AI-powered features. Current
 
 **Let's build something amazing. 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC700,25:2AF598,45:009EFD,65:7928CA,100:FF0080&height=110&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC700,33:7928CA,66:009EFD,100:2AF598&height=110&section=footer&animation=fadeIn"/>
 
 </div>
